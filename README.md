@@ -10,6 +10,8 @@ The game idea is referenced from "山海經異獸“. By eating the enemies in t
 * **q**, **e** to move the player along Y axis
 * **p** to restart the game
 
+## Link
+* The app can also be download directly at [here](https://drive.google.com/drive/folders/1Rny-9VWHOulAuofyjQLBOrBqwFqm6MT3?usp=sharing)
 ## Demo
 
 
