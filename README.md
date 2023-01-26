@@ -2,7 +2,7 @@
 Prof. 王昱舜
 
 ## Introduction
-The game idea is referenced from "山海經異獸“. By eating the enemies in the game, the player can be leveled up. Also, the size of the player will get larger as its level increased. There will be evolution when the level reach 30 and **50**, and there are **different evolutions depended on what you eat** to reach the level:p  
+The game idea is referenced from "山海經異獸“. By eating the enemies in the game, the player can be leveled up. Also, the size of the player will get larger as its level increased. There will be evolution when the level reach 30 and **50**, and there are **different evolutions depended on what you eat** to reach it:p  
 ## Player Control
 
 * **a**, **d** to move the player along X axis
