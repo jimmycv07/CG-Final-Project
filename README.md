@@ -13,5 +13,5 @@ The game idea is referenced from "山海經異獸“. By eating the enemies in t
 ## Demo
 
 
-https://user-images.githubusercontent.com/104150993/214908220-aef68e52-828a-488f-8e91-02ca63f323de.mp4
+https://user-images.githubusercontent.com/104150993/214909022-8e8148ca-c9d4-4e69-bd39-f5ad25541dfa.mp4
 
