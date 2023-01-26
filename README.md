@@ -11,3 +11,7 @@ The game idea is referenced from "山海經異獸“. By eating the enemies in t
 * **p** to restart the game
 
 ## Demo
+
+
+https://user-images.githubusercontent.com/104150993/214908220-aef68e52-828a-488f-8e91-02ca63f323de.mp4
+
